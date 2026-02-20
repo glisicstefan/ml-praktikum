@@ -32,13 +32,13 @@ ML Praktikum je **besplatni, open-source** Machine Learning resurs kreiran za:
 **📊 01_Data_Preprocessing** (10 lekcija)
 - Data Cleaning, EDA, Transformations, Encoding, Scaling, Splitting, Feature Engineering, Feature Selection, Handling Imbalanced Data, ML Pipeline
 
+**🤖 02_Supervised_Learning** (9 lekcija)
+- Linear Regression, Logistic Regression, Decision Trees, Random Forest, Gradient Boosting, SVM, KNN, Naive Bayes, Algorithm Comparison
+
 **🎯 05_Model_Evaluation_and_Tuning** (7 lekcija)
 - Classification Metrics, Regression Metrics, Cross-Validation, Bias-Variance Tradeoff, Hyperparameter Tuning, Regularization, Model Interpretation
 
 #### 🚧 U Izradi:
-
-**🤖 02_Supervised_Learning** (9 lekcija planirano)
-- Linear Regression, Logistic Regression, Decision Trees, Random Forest, Gradient Boosting, SVM, KNN, Naive Bayes, Algorithm Comparison
 
 **🔍 03_Unsupervised_Learning** (planirano)
 
@@ -70,7 +70,8 @@ ML-Praktikum/
 │   ├── 09_Handling_Imbalanced_Data.md
 │   └── 10_ML_Pipeline.md
 │
-├── 02_Supervised_Learning/          
+├── 02_Supervised_Learning/  
+|   ├── README.md     
 │   ├── 01_Linear_Regression.md
 │   ├── 02_Logistic_Regression.md
 │   ├── 03_Decision_Trees.md
@@ -83,7 +84,7 @@ ML-Praktikum/
 │
 ├── 03_Unsupervised_Learning/         
 │   └── (u izradi)
-│
+|
 ├── 04_Deep_Learning/                 
 │   └── (u izradi)
 │
@@ -97,12 +98,8 @@ ML-Praktikum/
 │   └── 07_Model_Interpretation.md
 │
 └── 06_Deployment/
-    ├── 01_Model_Serialization.md
-    ├── 02_API_Development_FastAPI.md
-    ├── 03_Containerization_Docker.md
-    ├── 04_Cloud_Deployment.md
-    ├── 05_Model_Monitoring.md
-    └── 06_MLOps_Best_Practices.md
+    └── (u izradi)
+
 ```
 
 ---
@@ -164,16 +161,8 @@ Videti [LICENSE](LICENSE) fajl za detalje.
 
 ---
 
-## 🙏 Zahvalnice
-
 ### Kreacija
 Ovaj praktikum je kreiran uz pomoć **Claude AI** (Anthropic) - AI asistent koji je pomogao u strukturiranju, pisanju i optimizaciji svih lekcija.
-
-### Inspiracija
-- Andrew Ng's Machine Learning Course (Coursera)
-- Fast.ai Practical Deep Learning
-- Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (Aurélien Géron)
-- Scikit-learn dokumentacija i primeri
 
 ---
 
